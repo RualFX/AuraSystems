@@ -49,7 +49,13 @@ including .NOS and .DAT (Wich means you are able to decode the Client etc.)
 
 ---------------------------------------------------------------------------------------------
 
-I will release AuraSystems very soon.
-The Source is running perfectly, but i will change many things, codes etc.
+Since AuraSystems was very long, and hard work for me i will NOT release it for free.
+AuraSystems will cost 50€ in total (1x Payment)
+You cant resell it, or give it to anyone because there is a IP-Logger wich only allows urself 
+to use AuraSystems
+
+---------------------------------------------------------------------------------------------
+
+For more Informations join my Discord!
 
 
