@@ -47,4 +47,9 @@ AuraSystems contains nearly all functions like the official server
 ---------------------------------------------------------------------------------------------
 including .NOS and .DAT (Wich means you are able to decode the Client etc.)
 
+---------------------------------------------------------------------------------------------
+
+I will release AuraSystems very soon.
+The Source is running perfectly, but i will change many things, codes etc.
+
 
