@@ -6,9 +6,11 @@ Version: V3.55
 AuraSystems is a non-Programm needed NosTale Private Server Source.
 You will not need any knowledge for AuraSystems.
 
-AuraSystems is based on C#, C++ and Delphi 
+This Source is based on C#, C++ and Delphi 
 
 AuraSystems contains nearly all functions like the official server
+---------------------------------------------------------------------------------------------
+
 [+] Raids
 
 [+] Shells
@@ -41,6 +43,8 @@ AuraSystems contains nearly all functions like the official server
 
 [+] All basic Systems like Upgrading, Grouping, Warehouse etc.
 
+
+---------------------------------------------------------------------------------------------
 including .NOS and .DAT (Wich means you are able to decode the Client etc.)
 
 
